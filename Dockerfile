@@ -1,1 +1,2 @@
-FROM httpd
+FROM busybox
+CMD ["echo","HELLO DOCKER"]
